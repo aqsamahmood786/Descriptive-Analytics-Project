@@ -1,2 +1,2 @@
 # Descriptive-Analytics-Project
-Analyzing historical sales data
+Analyzing historical sales data Using SQL and Tableau
